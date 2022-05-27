@@ -22,7 +22,7 @@ if(continua.toUpperCase() == 'N') break;
 
 console.log('\nLista de Alunos');
 
-console.log("-".repeat(40))
+console.log("-".repeat(40)) 
 
 
 
