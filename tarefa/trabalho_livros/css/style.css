@@ -1,0 +1,20 @@
+.texto-inicial {
+font-size: 4rem;
+font-weight: 800;
+color: rgb(162, 132, 246);
+text-shadow: 1px 1px 2px gray;
+}
+
+.bi-book {
+    color: rgb(101, 101, 252);
+}
+.bg-color-inicio {
+    background-image:  linear-gradient(to right, rgb(54, 54, 246), rgb(205, 50, 247));
+}
+
+.navbar-expand-lg {
+    color: white;
+}
+
+
+
